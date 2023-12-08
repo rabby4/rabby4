@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Golam Rabby
 
-![The San Juan Mountains are beautiful!](<https://raw.githubusercontent.com/rabby4/rabby4/main/images/banner%20(1).png> "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/rabby4/rabby4/main/images/banner.png "San Juan Mountains")
 
 **rabby4/rabby4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
