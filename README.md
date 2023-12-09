@@ -10,11 +10,51 @@ I'm font-end web developer with expertise in _React, Tailwind, JavaScript, Fireb
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby4&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000075)](https://git.io/streak-stats)
 
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby4&theme=react)]()
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby4&theme=react)
+
 ## 🥇 My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,figma&theme=dark)]()
 
-## 📩 Reach Out
+## 📩 Contact with me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/developer-rabby)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/DeveloperRabby)
+
+# 🧾 Recent Projects
+
+## Community food share:
+
+Anybody can join/log on community food share team and can share their foods
+Donor can manage her shared/uploaded foods
+Donor can change the status (Available/Delivered) of her shared/uploaded foods
+Also donor can delete her foods
+User can request and pick up the food at the mentioned location
+
+### Technology that I used for this project:
+
+`Html, Css, Javascript, React, Tailwind, React Router Dom, Firebase, Lottie Animation`
+
+### 🔗 [Live Link](https://food-sharing-bc5b4.web.app/)
+
+## Electronic Brand Shop:
+
+Different type of brand, each brand have some different products. Every product has ratting functionality. Add to cart option, The user can add multiple products to the cart. User can see all the products on the shop page. User can Register/Login.
+
+### Technology that I used for this project:
+
+`Html, Css, Javascript, React, Tailwind, DaisyUI, React Router Dom, swiper Slider, Firebase, ExpressJS, MongoDB, Lottie Animation`
+
+### 🔗 [Live Link](https://brand-shop-6ed3e.web.app/)
+
+## Electronic Brand Shop:
+
+Anyone can register on the wedding matrimony website and find their partner. Every user has a details page where anyone can see their information. But they can't see the contact information. If anyone needs contact information, he or she should become a premium member, or he or she can request for contact information. In that case, he or she should pay $500. Also, every user has an individual dashboard where he or she can update her details, see requested information, and also see her favorite users that he or she added previously.
+
+### Technology that I used for this project:
+
+`Html, Css, Javascript, React, Material UI, React Router, React hook form, swiper Slider, Firebase, ExpressJS, MongoDB, Lottie Animation, Stipe`
+
+### 🔗 [Live Link](https://matrimony-51be8.web.app/)
