@@ -12,8 +12,9 @@ I'm font-end web developer with expertise in _React, Tailwind, JavaScript, Fireb
 
 ## 🥇 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,figma&theme=dark)]()
 
-## Reach Out
+## 📩 Reach Out
 
-[![An old rock in the desert](https://raw.githubusercontent.com/rabby4/rabby4/main/images/174857.png "Shiprock, New Mexico by Beau Rogers")](https://www.linkedin.com/in/developer-rabby/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/developer-rabby)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/DeveloperRabby)
