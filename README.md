@@ -10,8 +10,6 @@ I'm font-end web developer with expertise in _React, Tailwind, JavaScript, Fireb
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby4&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000075)](https://git.io/streak-stats)
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby4&theme=react)]()
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabby4&theme=react)
 
 ## 🥇 My Skills
@@ -49,7 +47,7 @@ Different type of brand, each brand have some different products. Every product 
 
 ### 🔗 [Live Link](https://brand-shop-6ed3e.web.app/)
 
-## Electronic Brand Shop:
+## Wedding Matrimony:
 
 Anyone can register on the wedding matrimony website and find their partner. Every user has a details page where anyone can see their information. But they can't see the contact information. If anyone needs contact information, he or she should become a premium member, or he or she can request for contact information. In that case, he or she should pay $500. Also, every user has an individual dashboard where he or she can update her details, see requested information, and also see her favorite users that he or she added previously.
 
