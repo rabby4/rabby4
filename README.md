@@ -14,7 +14,7 @@ I'm font-end web developer with expertise in _React, Tailwind, JavaScript, Fireb
 
 ## 🥇 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,figma&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,express,figma&theme=dark)]()
 
 ## 📩 Contact with me
 
