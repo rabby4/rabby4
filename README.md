@@ -14,12 +14,13 @@ I'm font-end web developer with expertise in _React, Tailwind, JavaScript, Fireb
 
 ## 🥇 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,html,materialui,css,mongodb,vite,firebase,nodejs,express,figma&theme=dark)]()
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 ## 📩 Contact with me
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/developer-rabby)
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/DeveloperRabby)
+<a href="https://www.linkedin.com/in/developer-rabby">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 # 🧾 Recent Projects
 
