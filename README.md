@@ -14,28 +14,25 @@ I'm font-end web developer with expertise in _React, NextJS, JavaScript, TypeScr
 
 ## 🥇 My Skills
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <br />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 <br />
 <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <br />
-<!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
@@ -50,39 +47,3 @@ I'm font-end web developer with expertise in _React, NextJS, JavaScript, TypeScr
 <a href="https://www.facebook.com/developerRabby6" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-<!-- # 🧾 Recent Projects
-
-## Community food share:
-
-Anybody can join/log on community food share team and can share their foods
-Donor can manage her shared/uploaded foods
-Donor can change the status (Available/Delivered) of her shared/uploaded foods
-Also donor can delete her foods
-User can request and pick up the food at the mentioned location
-
-### Technology that I used for this project:
-
-`Html, Css, Javascript, React, Tailwind, React Router Dom, Firebase, Lottie Animation`
-
-### 🔗 [Live Link](https://food-sharing-bc5b4.web.app/)
-
-## Electronic Brand Shop:
-
-Different type of brand, each brand have some different products. Every product has ratting functionality. Add to cart option, The user can add multiple products to the cart. User can see all the products on the shop page. User can Register/Login.
-
-### Technology that I used for this project:
-
-`Html, Css, Javascript, React, Tailwind, DaisyUI, React Router Dom, swiper Slider, Firebase, ExpressJS, MongoDB, Lottie Animation`
-
-### 🔗 [Live Link](https://brand-shop-6ed3e.web.app/)
-
-## Wedding Matrimony:
-
-Anyone can register on the wedding matrimony website and find their partner. Every user has a details page where anyone can see their information. But they can't see the contact information. If anyone needs contact information, he or she should become a premium member, or he or she can request for contact information. In that case, he or she should pay $500. Also, every user has an individual dashboard where he or she can update her details, see requested information, and also see her favorite users that he or she added previously.
-
-### Technology that I used for this project:
-
-`Html, Css, Javascript, React, Material UI, React Router, React hook form, swiper Slider, Firebase, ExpressJS, MongoDB, Lottie Animation, Stipe`
-
-### 🔗 [Live Link](https://matrimony-51be8.web.app/) -->
